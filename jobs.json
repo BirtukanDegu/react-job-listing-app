@@ -1,0 +1,116 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "Google",
+        "location": "Austin",
+        "description": "We are seeking a skilled and passionate Software Engineer to join our team. As a Software Engineer, you will be responsible for developing high-quality software solutions and collaborating with cross-functional teams.",
+        "salary": 100000
+      },
+      {
+        "id": 2,
+        "title": "Data Analyst",
+        "company": "Data Analytics Inc.",
+        "location": "New York",
+        "description": "Data Analytics Inc. is looking for a talented Data Analyst to join our data-driven organization. As a Data Analyst, you will analyze complex datasets, generate valuable insights, and bute to data-driven decision making.",
+        "salary": 90000
+      },
+      {
+        "id": 3,
+        "title": "Marketing Manager",
+        "company": "Global Marketing Solutions",
+        "location": "San Francisco",
+        "description": "Global Marketing Solutions is seeking an experienced Marketing Manager to lead our marketing campaigns and initiatives. As a Marketing Manager, you will develop and implement strategic marketing plans to drive business growth.",
+        "salary": 110000
+      },
+      {
+        "id": 4,
+        "title": "UI/UX Designer",
+        "company": "Creative Solutions Agency",
+        "location": "Chicago",
+        "description": "Join our dynamic team as a UI/UX Designer at Creative Solutions Agency. As a UI/UX Designer, you will create intuitive and visually appealing user interfaces, conduct user research, and collaborate with cross-functional teams to deliver exceptional user experiences.",
+        "salary": 85000
+      },
+        {
+          "id": 5,
+          "title": "Product Manager",
+          "company": "Innovative Tech Solutions",
+          "location": "Seattle",
+          "description": "Join our team at Innovative Tech Solutions as a Product Manager and play a key role in driving product strategy and roadmap. As a Product Manager, you will collaborate with cross-functional teams, conduct market research, and define product requirements to deliver innovative solutions.",
+          "salary": 120000
+        },
+        {
+          "id": 7,
+          "title": "Graphic Designer",
+          "company": "Creative Studio",
+          "location": "Los Angeles",
+          "description": "Creative Studio is seeking a talented Graphic Designer to create visually stunning designs across various digital and print mediums. As a Graphic Designer, you will work closely with clients, conceptualize design ideas, and deliver compelling visual assets.",
+          "salary": 80000
+        },
+        {
+          "id": 8,
+          "title": "Financial Analyst",
+          "company": "Global Banking Group",
+          "location": "London",
+          "description": "Global Banking Group is looking for a skilled Financial Analyst to join our finance team. As a Financial Analyst, you will analyze financial data, prepare reports, and provide insights to support strategic decision making and drive financial performance.",
+          "salary": 95000
+        },
+        {
+          "id": 9,
+          "title": "Sales Representative",
+          "company": "Dynamic Sales Agency",
+          "location": "Toronto",
+          "description": "Dynamic Sales Agency is hiring a motivated Sales Representative to drive sales and build relationships with clients. As a Sales Representative, you will identify new business opportunities, deliver persuasive sales presentations, and achieve sales targets.",
+          "salary": 70000
+        },
+        {
+          "id": 10,
+          "title": "DevOps Engineer",
+          "company": "Cloud Solutions Inc.",
+          "location": "Berlin",
+          "description": "Cloud Solutions Inc. is seeking a skilled DevOps Engineer to design and implement scalable infrastructure solutions. As a DevOps Engineer, you will automate processes, ensure system reliability, and collaborate with development teams to deploy applications.",
+          "salary": 110000
+        },
+          {
+            "id": 11,
+            "title": "Javascript",
+            "company": "ABC Company",
+            "location": "San Francisco",
+            "description": "We are seeking a skilled JavaScript Developer to join our team. You will be responsible for developing and maintaining web applications using JavaScript, HTML, and CSS.",
+            "salary": "$80,000 - $100,000"
+          },
+          {
+            "id": 12,
+            "title": "Php",
+            "company": "XYZ Inc.",
+            "location": "New York",
+            "description": "We are looking for an experienced PHP Developer to join our dynamic team. You will be responsible for developing and maintaining server-side web applications and integrating them with front-end components.",
+            "salary": "$70,000 - $90,000"
+          },
+          {
+            "id": 13,
+            "title": "Python",
+            "company": "123 Tech",
+            "location": "Austin",
+            "description": "We have an exciting opportunity for a Python Software Engineer to join our innovative team. You will be involved in designing, developing, and deploying Python-based applications and systems.",
+            "salary": "$90,000 - $110,000"
+          },
+          {
+            "id": 14,
+            "title": "Docker",
+            "company": "Tech Solutions Ltd.",
+            "location": "Europe",
+            "description": "We are seeking a Docker Specialist to manage and optimize our containerized infrastructure. You will be responsible for deploying, scaling, and monitoring Docker containers to ensure high availability and performance.",
+            "salary": "$100,000 - $120,000"
+          },
+          {
+            "id": 15,
+            "title": "Linux",
+            "company": "Global IT Services",
+            "location": "Remote",
+            "description": "We are hiring a Linux System Administrator to maintain and support our Linux-based infrastructure. You will be responsible for managing servers, troubleshooting issues, and implementing security measures.",
+            "salary": "$80,000 - $100,000"
+          }
+    ]
+  }
