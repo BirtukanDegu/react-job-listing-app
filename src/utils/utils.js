@@ -37,7 +37,7 @@ function isOld(date) {
   return now - createdAt > oneDay;
 }
 
-const baseUrl = 'http://localhost:3000/jobs';
+const baseUrl = 'https://birtukandegu.github.io/job-mock-api/db.json';
 
 export {
   formatTime,
